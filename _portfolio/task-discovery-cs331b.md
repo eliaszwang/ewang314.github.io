@@ -1,6 +1,6 @@
 ---
 title: "Self-Supervised Task Discovery"
-excerpt: "Stanford Representation Learning in Computer Vision (CS 331B) Project [[pdf]](https://ewang314.github.io/files/task-discovery-cs331b.pdf)"
+excerpt: "Stanford Representation Learning in Computer Vision (CS 331B) Project"
 collection: portfolio
 paperurl: 'https://ewang314.github.io/files/task-discovery-cs331b.pdf'
 date: 2017-12-01
