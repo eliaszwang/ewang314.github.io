@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical Engineering, Stanford University, 2021 (expected)
-  * __Advisor__: Dan Yamins
+  * *Advisor*: Dan Yamins
 * M.S. in Electrical Engineering, Stanford University, 2018
   * Focus in AI and Signal Processing
 * B.S. in Electrical & Computer Engineering,  _summa cum laude_, Cornell University, 2016
