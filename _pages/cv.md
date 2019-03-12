@@ -53,9 +53,8 @@ Technical Reports
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* *Teaching Assistant*, Cornell University (2015)
+  * PHYS 2214: Physics III: Oscillations, Waves and Quantum Physics
   
 Honors & Awards
 ======
