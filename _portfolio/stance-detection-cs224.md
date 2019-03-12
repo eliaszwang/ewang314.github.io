@@ -3,6 +3,7 @@ title: "Stance Detection for Fake News Identification"
 excerpt: "Stanford NLP with Deep Learning (CS 224N) Project"
 collection: portfolio
 paperurl: 'https://ewang314.github.io/files/stance-detection-cs224n.pdf'
+date: 2017-03-01
 ---
 Click [here](https://ewang314.github.io/files/stance-detection-cs224n.pdf) for technical report.
 
