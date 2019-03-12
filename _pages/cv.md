@@ -31,8 +31,8 @@ Technical Reports
 
 Teaching
 ======
-* *Teaching Assistant*, Cornell University (2015)
-  * PHYS 2214: Physics III: Oscillations, Waves and Quantum Physics
+* **PHYS 2214: Physics III: Oscillations, Waves and Quantum Physics (Spring 2015)**
+  * *Teaching Assistant*, Cornell University
 
 Experience
 ======
