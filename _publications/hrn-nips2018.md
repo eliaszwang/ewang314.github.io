@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-10-27
 venue: 'NIPS'
 paperurl: 'https://arxiv.org/abs/1806.08047'
-citation: 'Mrowca D*, Zhuang C*, Wang E*, Haber N, Fei-Fei L, Tenenbaum JB, & Yamins D (2018). Flexible Neural Representation for Physics Prediction. In Advances in Neural Information Processing Systems (NIPS) 31 (in press)'
+citation: 'Mrowca D*, Zhuang C*, Wang E*, Haber N, Fei-Fei L, Tenenbaum JB, & Yamins D (2018). Flexible Neural Representation for Physics Prediction. In Advances in Neural Information Processing Systems (NIPS) 31'
 ---
 Humans have a remarkable capacity to understand the physical dynamics of objects
 in their environment, flexibly capturing complex structures and interactions at
