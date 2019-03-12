@@ -17,6 +17,23 @@ Education
   * Focus in AI and Signal Processing
 * B.S. in Electrical & Computer Engineering,  _summa cum laude_, Cornell University, 2016
 
+Publications
+======
+  <ul>{% for post in site.publications reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Technical Reports
+======
+  <ul>{% for post in site.portfolio reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Teaching
+======
+* *Teaching Assistant*, Cornell University (2015)
+  * PHYS 2214: Physics III: Oscillations, Waves and Quantum Physics
+
 Experience
 ======
 * __Research Assistant__, Princeton University (Jun 2016 - Aug 2016)
@@ -38,23 +55,6 @@ Experience
 * __Research Assistant__, Rutgers University (Jan 2014 - Aug 2014)
   * __Advisor__: Ivan Marsic
   * Decision Support for Smart Trauma-Resuscitation Room
-
-Publications
-======
-  <ul>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Technical Reports
-======
-  <ul>{% for post in site.portfolio reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-* *Teaching Assistant*, Cornell University (2015)
-  * PHYS 2214: Physics III: Oscillations, Waves and Quantum Physics
   
 Honors & Awards
 ======
