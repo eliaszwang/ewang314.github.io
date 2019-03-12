@@ -2,6 +2,8 @@
 title: "AlphaGOLAD Zero: Mastering the Game of Life and Death with Self-Play"
 excerpt: "Stanford Reinforcement Learning (CS 234) Project"
 collection: portfolio
+paperurl: 'https://ewang314.github.io/files/alpha-golad-cs234.pdf'
+date: 2018-03-01
 ---
 Click [here](https://ewang314.github.io/files/alpha-golad-cs234.pdf) for technical report.
 
