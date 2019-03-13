@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Elias Wang
+{: .text-center}
+=======
 
 Education
 ======
