@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 Elias Wang
 =======
+eliwang [at] stanford.edu | 
 {: .text-center}
+
 
 
 Education
