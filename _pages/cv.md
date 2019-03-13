@@ -8,7 +8,10 @@ redirect_from:
 ---
 Elias Wang
 =======
-eliwang [at] stanford.edu | 
+{: .text-center}
+Jordan Hall (#420) Room 427, 450 Serra Mall
+Stanford, CA 94305
+eliwang [at] stanford.edu
 {: .text-center}
 
 
