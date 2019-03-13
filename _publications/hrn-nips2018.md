@@ -23,3 +23,4 @@ deformations, generating plausible dynamics predictions at long time scales in
 novel settings, and scaling to large scene configurations. These results demonstrate
 an architecture with the potential to form the basis of next-generation physics
 predictors for use in computer vision, robotics, and quantitative cognitive science.
+{: .text-justify}
