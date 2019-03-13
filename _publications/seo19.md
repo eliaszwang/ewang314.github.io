@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-02-01
 venue: 'Science'
 paperurl: 'http://science.sciencemag.org/content/363/6426/538/tab-pdf'
-citation: 'Seo, C., Guru, A., Jin, M., Ito, B., Sleezer, B., Ho, Y., **Wang, E.**, Boada, C., Krupa, N., Kullakanda, D., Shen, C. and Warden, M. Intense threat switches dorsal raphe serotonin neurons to a paradoxical operational mode. Science, 2019; 363 (6426): 538'
+citation: 'Seo, C., Guru, A., Jin, M., Ito, B., Sleezer, B., Ho, Y., **Wang, E.**, Boada, C., Krupa, N., Kullakanda, D., Shen, C. and Warden, M. Intense threat switches dorsal raphe serotonin neurons to a paradoxical operational mode. *Science*, 2019; 363 (6426): 538'
 ---
 Abstract
 =======
