@@ -65,8 +65,9 @@ Experience
   
 Honors & Awards
 ======
-* Mind, Brain, Computation and Technology Graduate Trainee (2017 -2020)
+* Mind, Brain, Computation, and Technology Graduate Trainee, Stanford University (2017 -2020)
 * W. Noel Eldred Memorial Fellowship II, Stanford University (2016 - 2017)
+* Cornell Asian Alumni Association Scholarship, Cornell University (2015 - 2016)
 * John G. Pertsch Prize, Cornell University (2015)
 * Academic Excellence Award, Rutgers University (2014)
   
