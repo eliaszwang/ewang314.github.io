@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "" # No title for CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,13 +11,15 @@ redirect_from:
 Elias Wang
 =======
 {: .text-center}
-Jordan Hall (#420) Room 427, 450 Serra Mall  
-Stanford, CA 94305  
-eliwang [at] stanford.edu  
+**Curriculum Vitae**\\
+\\
+Jordan Hall (#420) Room 427, 450 Serra Mall\\
+Stanford, CA 94305\\
+eliwang [at] stanford.edu
 {: .text-center}
 
 Education
-======
+------
 * Ph.D in Electrical Engineering, Stanford University, 2021 (expected)
   * *Advisor*: Dan Yamins
 * M.S. in Electrical Engineering, Stanford University, 2018
@@ -25,24 +27,24 @@ Education
 * B.S. in Electrical & Computer Engineering,  _summa cum laude_, Cornell University, 2016
 
 Publications
-======
+------
   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Technical Reports
-======
+------
   <ul>{% for post in site.portfolio reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Teaching
-======
+------
 * **PHYS 2214: Physics III: Oscillations, Waves and Quantum Physics (Spring 2015)**
   * *Teaching Assistant*, Cornell University
 
 Experience
-======
+------
 * __Research Assistant__, Princeton University (Jun 2016 - Aug 2016)
   * __Advisor__: Sebastian Seung
   * Automated pipeline for EM imaging of neural tissue
@@ -64,7 +66,7 @@ Experience
   * Decision Support for Smart Trauma-Resuscitation Room
   
 Honors & Awards
-======
+------
 * Mind, Brain, Computation, and Technology Graduate Trainee, Stanford University (2017 -2020)
 * W. Noel Eldred Memorial Fellowship II, Stanford University (2016 - 2017)
 * Cornell Asian Alumni Association Scholarship, Cornell University (2015 - 2016)
