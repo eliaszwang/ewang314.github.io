@@ -56,11 +56,11 @@
     
     {% if post.citation and post.paperurl %}
       <p>{{ post.citation | markdownify}} </p>
-      <p>Download: <a href=" {{ post.paperurl }} "><u>[pdf]</u></a> </p>
+      <p>Download: <a href=" {{ post.paperurl }} ">[pdf]</a> </p>
     {% elsif post.citation %}
       <p>{{ post.citation | markdownify}} </p>
     {% elsif post.paperurl %}
-      <p>Download: <a href=" {{ post.paperurl }} "><u>[pdf]</u></a></p>
+      <p>Download: <a href=" {{ post.paperurl }} ">[pdf]</a></p>
     {% endif %}
 
   </article>
