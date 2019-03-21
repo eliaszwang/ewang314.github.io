@@ -8,6 +8,7 @@ tags:
   - curriculum learning
   - ICML
   - '2017'
+  - DeepMind
 ---
 
 Summary
@@ -29,8 +30,8 @@ Background and Methods
 * Treat picking next task as stochastic policy, optimized for maximizing learning progress
 * Progress signal is evaluated for *each training example*
 * Nonstationary multi-armed bandit
-* *task* is a distribution D over batches from \$$ X = (A \times B)^N $$, where \$$ A $$ and \$$ B $$ are the set of inputs and outputs, respectively
-* *curriculum* is an esemble of task \$$ D_1, ..., D_N $$
+* *task* is a distribution D over batches from $$ X := (A \times B)^N $$, where $$ A $$ and $$ B $$ are the set of inputs and outputs, respectively
+* *curriculum* is an esemble of task $$ D_1, ..., D_N $$
 * *syllabus* is a time-varying sequence of distributions over tasks
 
 * View curriculum containing N tasks as an N-armed bandit (Exp3 algorithm Auer et al. 2002)

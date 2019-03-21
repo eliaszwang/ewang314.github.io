@@ -1,6 +1,6 @@
 ---
 title: 'Toddler-Inspired Visual Object Learning'
-date: 2019-03-19
+date: 3019-03-19
 collection: posts
 categories: 
   - paper review
@@ -12,11 +12,12 @@ tags:
 
 Summary
 ------
+* [Paper link](http://papers.nips.cc/paper/7396-toddler-inspired-visual-object-learning)
 
-Background and Motivation
+Motivation and Related Work
 ------
 
-Approach and Methods
+Background and Methods
 ------
 
 Results
