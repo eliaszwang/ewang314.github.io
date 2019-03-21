@@ -45,7 +45,7 @@ layout: default
              
         {% if page.citation and page.paperurl %}
           <p>{{ page.citation | markdownify}} </p>
-          <p>Download: <a href="{{ page.paperurl }}"><u>[pdf]</u></a> </p>
+          <p>Download: <a href="{{ page.paperurl }}">[pdf]</a> </p>
         {% elsif page.citation %}
           <p>{{ page.citation | markdownify}} </p>
         {% endif %}
