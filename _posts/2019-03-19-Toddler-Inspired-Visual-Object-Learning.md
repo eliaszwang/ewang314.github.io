@@ -12,7 +12,7 @@ tags:
 
 Summary
 ------
-* [Paper link](http://papers.nips.cc/paper/7396-toddler-inspired-visual-object-learning)
+* [Paper link](https://papers.nips.cc/paper/7396-toddler-inspired-visual-object-learning)
 
 Motivation and Related Work
 ------
