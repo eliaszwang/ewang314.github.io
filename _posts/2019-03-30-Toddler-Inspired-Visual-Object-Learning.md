@@ -1,6 +1,6 @@
 ---
 title: 'Toddler-Inspired Visual Object Learning'
-date: 3019-03-30
+date: 2019-03-30
 collection: posts
 categories: 
   - paper review
