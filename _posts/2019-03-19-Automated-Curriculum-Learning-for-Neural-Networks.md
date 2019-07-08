@@ -19,6 +19,7 @@ Summary
 * Consider a variety of signals based on rate of increase in prediction accuracy and network complexity
 * Experimental results with LSTMs on three curricula
 * [Paper link](https://arxiv.org/abs/1704.03003)
+<!--more-->
 
 Motivation and Related Work
 ------
