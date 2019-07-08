@@ -15,6 +15,7 @@ Summary
 * Propose a multitask model that can jointly learn these tasks
 * Novel Dual-Attention unit to disentangle words and visual concepts
 * [Paper link](https://arxiv.org/abs/1902.01385)
+<!--more-->
 
 Motivation and Related Work
 ------

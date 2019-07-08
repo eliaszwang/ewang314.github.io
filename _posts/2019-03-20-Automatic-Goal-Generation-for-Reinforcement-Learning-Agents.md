@@ -17,6 +17,7 @@ Summary
 * Generates target goals during training using GAN to ensure goals are of 'intermediate' difficulty
 * Experiments with Ant on plane and in maze
 * [Paper link](https://arxiv.org/abs/1705.06366)
+<!--more-->
 
 Motivation and Related Work
 ------

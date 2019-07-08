@@ -17,6 +17,7 @@ Summary
 * Child data produces better object models than egocentric adult data
 * Child data exhibits unique combination of quality and diversity
 * [Paper link](https://papers.nips.cc/paper/7396-toddler-inspired-visual-object-learning)
+<!--more-->
 
 Motivation and Related Work
 ------
